@@ -52,7 +52,7 @@
     "http-status": "^1.0.1",
     "json-schema-ref-parser": "^6.1.0",
     "swagger-parser": "4.0.2",
-    "swagger-ui-dist": "^3.47.1"
+    "swagger-ui-dist": "^4.5.0"
   },
   "devDependencies": {
     "@hapi/basic": "^6.0.0",
